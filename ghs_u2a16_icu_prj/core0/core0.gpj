@@ -1,0 +1,14 @@
+#!gbuild
+[Core]
+	-object_dir=./output/objs/core0
+	-cpu=rh850g4mh
+	-I.\
+	-I.\app
+	-I.\bsp
+	-I.\main
+	-I.\startup
+	-I.\bsp\driver
+app\app.gpj
+bsp\bsp.gpj
+main\main.gpj
+startup\startup.gpj

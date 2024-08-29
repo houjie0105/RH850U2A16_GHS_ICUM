@@ -1,0 +1,7 @@
+#!gbuild
+defineConfig(Debug   dbg debug.gpc)
+defineConfig(Release rel release.gpc)
+primaryTarget=v800_standalone.tgt
+[Project]
+	:binDir=output
+ghs_u2a16_icu_prj\ghs_u2a16_icu_prj.gpj	[MultiCoreArchive]

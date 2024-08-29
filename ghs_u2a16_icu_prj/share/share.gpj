@@ -1,0 +1,7 @@
+#!gbuild
+[SharedMemory]
+	-object_dir=./output/objs/share
+	-cpu=rh850g4mh
+	-I.\
+	-I.\startup
+startup\startup.gpj

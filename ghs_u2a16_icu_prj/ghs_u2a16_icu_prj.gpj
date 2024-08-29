@@ -1,0 +1,6 @@
+#!gbuild
+[MultiCoreArchive]
+core0\core0.gpj	[Core]
+core1\core1.gpj	[Core]
+icum\icum.gpj	[Core]
+share\share.gpj	[SharedMemory]

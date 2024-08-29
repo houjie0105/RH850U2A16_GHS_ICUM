@@ -1,0 +1,6 @@
+#!gbuild
+[Subproject]
+coldreset.850
+exception.850
+RH850U2Ax.ld
+set_csa.850

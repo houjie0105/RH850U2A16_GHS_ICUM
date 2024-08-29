@@ -1,0 +1,6 @@
+#!gbuild
+[Subproject]
+coldreset.850
+exception.850
+Interrupt_VectorTable.c
+U2A16_Core1.ld

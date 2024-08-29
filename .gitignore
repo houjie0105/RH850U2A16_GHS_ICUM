@@ -1,0 +1,10 @@
+*.o
+*.dbo
+*.d
+*.dep
+*.dla
+*.dnm
+*.map
+*.log
+/output
+/.vscode

@@ -1,0 +1,6 @@
+#!gbuild
+[Subproject]
+coldreset.850
+exception.850
+icum.ld
+Interrupt_VectorTable.c

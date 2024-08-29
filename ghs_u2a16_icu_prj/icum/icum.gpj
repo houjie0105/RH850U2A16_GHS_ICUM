@@ -1,0 +1,14 @@
+#!gbuild
+[Core]
+	-object_dir=./output/objs/icum
+	-cpu=rh850g3k
+	-I.\
+	-I.\app
+	-I.\bsp
+	-I.\main
+	-I.\startup
+	-I.\bsp\driver
+app\app.gpj
+bsp\bsp.gpj
+main\main.gpj
+startup\startup.gpj

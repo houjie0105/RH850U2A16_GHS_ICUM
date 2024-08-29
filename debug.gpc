@@ -1,0 +1,15 @@
+#!gbuild
+[Build Configuration]
+	-bsp generic
+	-no_misalign_pack
+	-shared_imports
+	-allow_overlap
+	-overlap
+	-G
+	-e _RESET
+	-prepare_dispose
+	-inline_prologue
+	-sda=all
+	-large_sda
+	-dual_debug
+	-D__DEBUG
